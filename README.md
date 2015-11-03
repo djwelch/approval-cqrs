@@ -1,6 +1,5 @@
 # approval-cqrs
-Approval process using event sourcing and fsharp.
+Approval process which allows multiple approvals and handles coordination between them.
+Worked out more complicated than I thought it would be, could be simplified.
 
-Based off https://gist.github.com/AlexSugak/10119582.
-
-Worked out more complicated than I thought it would be.
+Using event sourcing and fsharp based off https://gist.github.com/AlexSugak/10119582.
